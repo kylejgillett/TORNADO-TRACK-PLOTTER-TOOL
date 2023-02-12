@@ -17,3 +17,5 @@ DISCLAIMER:
 If you ever run into an issue, please contact me here or on Twitter (@wxkylegillett)
 
 ![TEXAS-TORNADOES](https://user-images.githubusercontent.com/100786530/213835427-fa30d68a-3ec1-42e1-8ff0-30558ff4d371.png)
+![ALLUSTORNADOES1950-2021-BLACK](https://user-images.githubusercontent.com/100786530/218288221-b1e1ab9f-9dc0-4f49-92fc-2e58e81cc2bc.png)
+![MICHIGAN-TORNADOES](https://user-images.githubusercontent.com/100786530/218288231-dac81a9a-1886-45f8-867b-2c3779c1be8b.png)
